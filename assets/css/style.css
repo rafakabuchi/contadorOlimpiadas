@@ -13,13 +13,13 @@ h1 {
     height: 500px;
     border-radius: 10px;
     margin: auto;
-    background: url(https://toptrofeus.com.br/wp-content/uploads/2015/10/medalha-tradicional-redonda-60003-top-trofeus.jpg) center center no-repeat;
+    background: url('../img/trophy.png') center center no-repeat;
     background-size: 100%;
 }
 
 p {
     text-align: center;
     margin-top: 170px;
-    color: white;
+    color: black;
     font-size: 150px;
 }
